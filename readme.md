@@ -8,10 +8,10 @@
 Primeiro passo, clonar o projeto:
 ``` bash
 # Clonar
-git clone https://github.com/carlosfgti/laravel-com-vue-exemplo.git
+git clone https://github.com/mcvazinfop-svg/laravel-com-vue.git
 
 # Acessar
-cd laravel-com-vue-exemplo
+cd laravel-com-vue
 ```
 
 ## Configuração - Backend
@@ -37,7 +37,7 @@ php artisan storage:link
 ## Login
 O usuário de teste é:
 ```
-email:    carlos@especializati.com.br
+email:    mcvazin.fop@gmail.com
 password: 123456
 ```
 
@@ -53,5 +53,3 @@ npm run dev
 npm run build
 ```
 
-## Deseja Aprender Laravel com Vue JS?
-Recomendo que se matricule no meu treinamento de Laravel com Vue JS ([Saiba Mais](https://www.especializati.com.br/curso-laravel-vue-js)). 
